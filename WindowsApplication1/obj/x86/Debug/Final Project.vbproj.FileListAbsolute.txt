@@ -1,0 +1,3 @@
+G:\Sandeep Samineni'Final Project\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+G:\Sandeep Samineni'Final Project\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+G:\Sandeep Samineni'Final Project\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb

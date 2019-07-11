@@ -1,0 +1,12 @@
+F:\MEE 698\EX6 - Hoeken Mechanism\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+F:\MEE 698\EX6 - Hoeken Mechanism\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+F:\MEE 698\EX6 - Hoeken Mechanism\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\sandeep\Desktop\EX6 - Hoeken Mechanism\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\sandeep\Desktop\EX6 - Hoeken Mechanism\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\sandeep\Desktop\EX6 - Hoeken Mechanism\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\sandeep\Desktop\EX6 - Hoeken Mechanism\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\sandeep\Desktop\EX6 - Hoeken Mechanism\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\sandeep\Desktop\EX6 - Hoeken Mechanism\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\sandeep\Desktop\EX6 - Hoeken Mechanism\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\sandeep\Desktop\EX6 - Hoeken Mechanism\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\sandeep\Desktop\EX6 - Hoeken Mechanism\WindowsApplication1\obj\x86\Debug\EX6 - Hoeken Mechanism.vbproj.GenerateResource.Cache

@@ -1,0 +1,21 @@
+C:\Work\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Work\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Work\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Work\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Work\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Work\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Work\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Work\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Work\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Ex5.vbproj.GenerateResource.Cache
+C:\Work\Ex5\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Work\Ex5\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Work\Ex5\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+G:\MEE 698\Ex5\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+G:\MEE 698\Ex5\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+G:\MEE 698\Ex5\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Work\Ex6\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Work\Ex6\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Work\Ex6\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+F:\MEE 698\Ex6\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+F:\MEE 698\Ex6\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+F:\MEE 698\Ex6\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
